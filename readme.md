@@ -1,4 +1,5 @@
 - [x] initial setup
 - [x] i tailwindcss
 - [x] useState: functions submit, delete, toggle checked
-- [ ] refactoring
+- [x] refactoring
+- [ ] useState: local storage
